@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+  }
+  
+  table, td, th {
+      border: solid 1px gray;
+      background-color: white;
+      color : darkblue;
+
+    }
+  
+  table {
+    width: 70%;
+    margin: 0 auto;
+    border: solid 1px;
+  }
+  body{
+      background-color: lightblue;
+  }
